@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="gb2312" standalone="no" ?>
+<flash_show_info>
+ <user uin="919745190" ts="1451750895" style="1" sex="0" group="0" effect="0" days="0" face="0" pose="0" />
+ <client burl="./flashshow2" tmo="150" trans="on" turl="http://jump.qq.com/clienturl_254" />
+ <scene scale="90" x="6.00" y="1.00" rot="0" style="1" sex="0" />
+ <item lyr="402" flyr="402" typ="qqshow">
+  <file t="2" typ="swf" url="70" id="1036370" ts="1285573678" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="406" flyr="406" typ="qqshow">
+  <file t="2" typ="swf" url="76" id="1047576" ts="1348054015" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="409" flyr="409" typ="qqshow">
+  <file t="2" typ="swf" url="76" id="1047576" ts="1348054016" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="412" flyr="412" typ="qqshow">
+  <file t="2" typ="swf" url="76" id="1047576" ts="1348054016" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="415" flyr="415" typ="qqshow">
+  <file t="2" typ="swf" url="76" id="1047576" ts="1348054016" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="418" flyr="418" typ="qqshow">
+  <file t="2" typ="swf" url="76" id="1047576" ts="1348054016" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="421" flyr="421" typ="qqshow">
+  <file t="2" typ="swf" url="76" id="1047576" ts="1348054016" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="436" flyr="436" typ="qqshow">
+  <file t="2" typ="swf" url="74" id="1045774" ts="1336443554" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="442" flyr="442" typ="qqshow">
+  <file t="2" typ="swf" url="74" id="1045774" ts="1336443554" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="448" flyr="448" typ="qqshow">
+  <file t="2" typ="swf" url="74" id="1045774" ts="1336443554" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="450" flyr="450" typ="qqshow">
+  <file t="2" typ="swf" url="55" id="1039155" ts="1337591512" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="451" flyr="451" typ="qqshow">
+  <file t="2" typ="swf" url="0" id="1039000" ts="1337566738" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="461" flyr="461" typ="qqshow">
+  <file t="2" typ="swf" url="50" id="1040950" ts="1313495636" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="465" flyr="465" typ="qqshow">
+  <file t="2" typ="swf" url="5" id="1005905" ts="1216086921" x="0.00" y="-0.45" scalex="100" scaley="100" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="468" flyr="468" typ="qqshow">
+  <file t="2" typ="swf" url="3" id="1026303" ts="1234509283" x="-0.25" y="0.00" scalex="100" scaley="100" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="469" flyr="469" typ="qqshow">
+  <file t="2" typ="swf" url="3" id="1026303" ts="1234509283" x="0.20" y="0.00" scalex="100" scaley="100" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="472" flyr="472" typ="qqshow">
+  <file t="2" typ="swf" url="43" id="1039543" ts="1301015905" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="473" flyr="473" typ="qqshow">
+  <file t="2" typ="swf" url="43" id="1039543" ts="1301015905" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="482" flyr="482" typ="qqshow">
+  <file t="2" typ="swf" url="70" id="1036370" ts="1285573678" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="1024" flyr="1024" typ="qqshow">
+  <file t="2" typ="swf" url="0" id="1000000" ts="1378107943" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="1141" flyr="1141" typ="incantationgb">
+  <file t="2" typ="swf" url="0" id="1000000" ts="1351579168" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="1150" flyr="1150" typ="incantation">
+  <file t="2" typ="swf" url="0" id="1000000" ts="1352451163" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="11024" flyr="11024" typ="qqshow" ver="1">
+  <file t="2" typ="swf" url="0" id="1000000" ts="1423131413" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="11141" flyr="11141" typ="incantationgb" ver="1">
+  <file t="2" typ="swf" url="0" id="1000000" ts="1384423936" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="11150" flyr="11150" typ="incantation" ver="1">
+  <file t="2" typ="swf" url="0" id="1000000" ts="1389689906" x="0.00" y="0.00" rot="0" scale="100" rev="0" />
+ </item>
+ <item lyr="11950" flyr="11950" typ="allpurpose" ver="1">
+  <file t="2" typ="swf" url="0" id="1000000" ts="1402396112" x="0" y="0" rot="0" scale="100" rev="0" />
+  <shuoshuo content="各种海豹" img_url="http://m.qpic.cn/psb?/91d56f61-e158-4d94-bb24-22ee693cbacd/*KToG8hy6RJLdlSpjds2PQRpLABwoa3f4.lHGzyFuog!/b/dIEBAAAAAAAA" />
+ </item>
+</flash_show_info>
